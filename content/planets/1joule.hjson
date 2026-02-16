@@ -37,7 +37,7 @@ mesh: [
     radius: 0.75
     colors:
     [
-    ffffff
+    404f73
     000000
     ]
     octaves: 6
