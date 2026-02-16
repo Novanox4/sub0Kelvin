@@ -36,6 +36,7 @@ mesh: [
   radius: 0.73
   color1: 0d1a38
   color2: 111e3d
+  divisions: 6
   }
   ]
 alwaysUnlocked: true
