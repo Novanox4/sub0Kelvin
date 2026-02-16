@@ -7,7 +7,7 @@ allowLaunchLoadout: false
 allowSectorInvasion: false
 startSector: 1
 orbitSpacing: 3
-radius: 1.4
+radius: 0.75
 minZoom: 0.01
 drawOrbit: true
 atmosphereRadIn: 0.04
@@ -32,14 +32,10 @@ solarSystem: sun
 orbitTime: 300
 mesh: [
   {
-    type: SunMesh
-    divisions: 6
-    persistence: 0.1
-    scl: 1
-    colors: [
-    404f73
-    0d1a38
-    ]
+  type: NoiseMesh
+  radius: 0.73
+  color1: 0d1a38
+  color2: 111e3d
   }
   ]
 alwaysUnlocked: true
