@@ -1,47 +1,62 @@
-localizedName: I am god's stongest puppygirl soldier
-orbitRadius: 140
-sectorSize: 2
+localizedName: I am god's strongest puppygirl soldier
+description: hawk tuah
+orbitRadius: 145
+sectorSize: 3.5
 allowLaunchSchematics: false
 allowLaunchToNumbered: false
 allowLaunchLoadout: false
 allowSectorInvasion: false
 startSector: 1
-orbitSpacing: 3
-radius: 0.73
-minZoom: 0.01
+orbitSpacing: 2
+radius: 0.99
+minZoom: 1
 drawOrbit: true
 atmosphereRadIn: 0.02
 atmosphereRadOut: 0.4
 clipSize: 8500
 accessible: true
 updateLighting: false
-sectorSeed: 67
+sectorSeed: 69420
 bloom: true
 visible: true
-atmosphereColor: 0d1a381a
-iconColor: 5b76fc
+atmosphereColor: 111e3d1a
+iconColor: 0d1a38
 hasAtmosphere: true
 allowWaveSimulation: false
 clearSectorOnLose: true
 allowWaves: true
 prebuildBase: false
-#placeholder
-defaultCore: core-shard 
+defaultCore: core-bastion
 parent: sun
 solarSystem: sun
-orbitTime: 300
 mesh: [
+  //baseplate
   {
   type: NoiseMesh
-  radius: 0.73
-  color1: 0d1a38
-  color2: 111e3d
-  coct: 0.2
-  cscl: 3
-  cper: 2
-  cthresh: 3
-  divisions: 6
-  octaves: 9
-  }
-  ]
+  color1: 111e3d
+  color2: 0d1a38
+  seed: 0
+  planet: 1joule
+  radius: 0.95
+  octaves: 4.25
+  persistence: 0.8
+  divisions: 4
+  scale: 1
+  mag: 1.05
+]
+generator: {
+  octaves: 3
+  persistence: 0.52
+  scale: 22
+  mag: 0.721
+  thresh: 1.152
+  min: 100
+  max: 100
+  radMin: 220
+  radMax: 600
+  iceChance: 0.51
+  carbonChance: 0.32
+  berylChance: 0
+  ferricChance: 0.26
+}
 alwaysUnlocked: true
