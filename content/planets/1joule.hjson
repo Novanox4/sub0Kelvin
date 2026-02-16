@@ -51,7 +51,7 @@ mesh: [
   color1: 859acc
   color2: 828da8
   cthresh: 0.1
-  cscl: 0.2
+  cscl: 3
   cmag: 4
   seed: 8
   planet: 1joule
