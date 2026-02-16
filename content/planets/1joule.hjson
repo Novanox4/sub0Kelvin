@@ -47,6 +47,21 @@ mesh: [
   scale: 2
   mag: 5
   }
+  //baseplate
+  {
+  type: NoiseMesh
+  color1: 54658c1a
+  color2: 607cbf1a
+  cthresh: 0.1
+  seed: 4
+  planet: 1joule
+  radius: 0.75
+  octaves: 4.25
+  persistence: 1
+  divisions: 5
+  scale: 2
+  mag: 5
+  }
 ]
 generator: {
   octaves: 3
