@@ -61,7 +61,6 @@ mesh: [
   scale: 2
   mag: 4
   }
-  }
   //baseplate
   {
   type: NoiseMesh
