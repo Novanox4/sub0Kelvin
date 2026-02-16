@@ -50,6 +50,9 @@ mesh: [
   type: NoiseMesh
   color1: 859acc
   color2: 828da8
+  cthresh: 0.1
+  cscl: 0.2
+  cmag: 4
   seed: 8
   planet: 1joule
   radius: 0.75
