@@ -60,7 +60,7 @@ mesh: [
   persistence: 1
   divisions: 5
   scale: 2
-  mag: 5
+  mag: 1
   }
 ]
 generator: {
