@@ -49,8 +49,8 @@ mesh: [
   //baseplate
   {
   type: NoiseMesh
-  color1: 54658c1a
-  color2: 607cbf1a
+  color1: 859acc1a
+  color2: 859acc1a
   cthresh: 0.1
   seed: 7
   planet: 1joule
