@@ -52,14 +52,14 @@ mesh: [
   color1: 6a8aa6
   color2: 536b80
   cthresh: 0.1
-  seed: 456
+  seed: 1225
   planet: 1joule
-  radius: 0.555
+  radius: 0.75
   octaves: 4.25
-  persistence: 0.425
-  divisions: 6
-  scale: 2.1
-  mag: 3.05
+  persistence: 1
+  divisions: 5
+  scale: 2
+  mag: 1.2
   }
   //baseplate
   {
