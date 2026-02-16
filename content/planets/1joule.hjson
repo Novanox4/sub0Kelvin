@@ -37,8 +37,8 @@ mesh: [
     persistence: 0.1
     scl: 0.5
     colors: [
-    404f7300
-    0d1a3800
+    404f73
+    0d1a38
     ]
   }
   ]
