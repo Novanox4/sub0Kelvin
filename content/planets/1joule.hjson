@@ -8,7 +8,7 @@ allowLaunchLoadout: false
 allowSectorInvasion: false
 startSector: 1
 orbitSpacing: 2
-radius: 0.96
+radius: 0.76
 minZoom: 1
 drawOrbit: true
 atmosphereRadIn: 0.02
@@ -38,7 +38,7 @@ mesh: [
   cthresh: 0.1
   seed: 0
   planet: 1joule
-  radius: 0.95
+  radius: 0.75
   octaves: 4.25
   persistence: 0.8
   divisions: 5
