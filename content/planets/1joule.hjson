@@ -66,7 +66,7 @@ mesh: [
   type: NoiseMesh
   color1: 859acc
   color2: 828da8
-  cthresh: 0.1
+  cthresh: 0.8
   cscl: 0.3
   cmag: 0.2
   coct: 4
