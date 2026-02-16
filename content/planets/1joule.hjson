@@ -52,7 +52,7 @@ mesh: [
   color1: 6a8aa6
   color2: 536b80
   cthresh: 0.1
-  seed: 1225
+  seed: 456
   planet: 1joule
   radius: 0.74
   octaves: 4.25
