@@ -37,8 +37,8 @@ mesh: [
     persistence: 0.1
     scl: 0.5
     colors: [
-    404f73
-    0d1a38
+    404f7300
+    0d1a3800
     ]
     octaves: 6
     persistence: 0.7
