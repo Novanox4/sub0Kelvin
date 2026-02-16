@@ -7,7 +7,7 @@ allowLaunchLoadout: false
 allowSectorInvasion: false
 startSector: 1
 orbitSpacing: 3
-radius: 0.75
+radius: 0.76
 minZoom: 0.01
 drawOrbit: true
 atmosphereRadIn: 0.04
@@ -37,6 +37,7 @@ mesh: [
   color1: 0d1a38
   color2: 111e3d
   divisions: 6
+  octaves: 9
   }
   ]
 alwaysUnlocked: true
