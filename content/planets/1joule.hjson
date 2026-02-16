@@ -5,10 +5,10 @@ allowLaunchSchematics: false
 allowLaunchToNumbered: false
 allowLaunchLoadout: false
 allowSectorInvasion: false
-startSector: 0
+startSector: 1
 orbitSpacing: 3
-radius: 1.5
-minZoom: 1
+radius: 1.45
+minZoom: 0.75
 drawOrbit: true
 atmosphereRadIn: 0.04
 atmosphereRadOut: 0.3
