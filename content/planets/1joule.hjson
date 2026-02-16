@@ -34,10 +34,10 @@ solarSystem: sun
 mesh: [
   {
   type: NoiseMesh
-  color1: 54658c1a
-  color2: 607cbf1a
+  color1: 54658c
+  color2: 607cbf
   cthresh: 0.1
-  seed: 4
+  seed: 42
   planet: 1joule
   radius: 0.525
   octaves: 4.25
@@ -50,9 +50,9 @@ mesh: [
   {
   type: NoiseMesh
   color: 859acc00
-  seed: 7
+  seed: 8
   planet: 1joule
-  radius: 0.7
+  radius: 0.725
   octaves: 4.25
   persistence: 1
   divisions: 5
