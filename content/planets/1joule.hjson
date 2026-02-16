@@ -35,6 +35,7 @@ mesh: [
     type: SunMesh
     divisions: 6
     persistence: 0.1
+    scl: 0.5
     colors: [
     404f73
     0d1a38
